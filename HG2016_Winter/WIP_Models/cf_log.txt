@@ -1,0 +1,1 @@
+Warning: None triangle mesh: Cylinder (file: 'C:\Users\Karolis\Documents\STUFF\HG2016_Winter\HG2016_Winter\WIP_Models\UFO.fbx') [ (line 0)]
